@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 public class TicTacToe
@@ -208,4 +207,3 @@ public class TicTacToe
          game.get(7)+" | "+game.get(8)+" | "+game.get(9)+"\n");
   }
 }
-```
