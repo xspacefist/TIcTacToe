@@ -22,7 +22,7 @@ public class TicTacToe
  
   public static void main(String[] args) {
     
-    System.out.println("Willkommen bei TicTacToe by Elias du brauchst 2 Spieler zum spielen.");
+    System.out.println("Willkommen bei TicTacToe.");
     
     new TicTacToe();
   }
