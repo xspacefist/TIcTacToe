@@ -1,4 +1,4 @@
-```javascript
+```java
 import java.util.*;
 
 public class TicTacToe
